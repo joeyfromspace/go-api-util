@@ -4,5 +4,6 @@ go 1.13
 
 require (
 	github.com/joeyfromspace/go-api-errors/v2 v2.0.0
+	github.com/sirupsen/logrus v1.6.0
 	go.mongodb.org/mongo-driver v1.4.0
 )
